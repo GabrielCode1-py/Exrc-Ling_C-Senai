@@ -4,7 +4,7 @@
 int main(){
     
     char nome[30], sobreNome[30], nomeCompleto[60];
-    int idade;
+    int idade; 
     
     printf("Digite seu nome: ");
     fgets(nome, sizeof(nome), stdin);
@@ -22,6 +22,8 @@ int main(){
     
     printf("Nome Completo: %s\n", nomeCompleto);
     printf("Idade: %d anos\n", idade);
+
+    printf("Bora, que devemos alcançar a glória, ainda serei um Dev. System!");
     
     return 0;
 }
