@@ -1,0 +1,16 @@
+13.Um garrafão de 20 litros, cheio de água, 
+está com um furo que vaza 50ml a cada 30
+minutos. Faça um programa para calcular em 
+quantas horas o garrafão estará vazio.
+
+14. Leia 4 variáveis A, B, C e D. A seguir, 
+calcule e mostre a diferença do produto de A e
+B pelo produto de C e D (A*B-C*D).
+
+15.Escreva um programa que peça uma letra ao usuário.
+ Em seguida, imprima um
+quadrado na tela colocando a letra lida no 
+centro do quadrado.
+
+---
+|B|
