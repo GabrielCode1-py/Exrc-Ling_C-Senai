@@ -1,0 +1,10 @@
+21. Calcule o salário líquido após descontar o INSS (11%)
+ e o Imposto de Renda (7.5%). Leia o
+salário bruto.
+
+22. Calcule a área da superfície de um cubo. Leia o comprimento da aresta.
+
+23. Calcule o valor final de um produto que teve dois aumentos percentuais sucessivos. Leia o
+preço original, o primeiro percentual de aumento e o segundo percentual.
+
+24. Calcule o volume de uma esfera
